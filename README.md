@@ -1,9 +1,9 @@
 Olá, me chamo Maxwell
 
 
-- 🔭 Atualmente estou trabalhando em suporte de informatica
-- 🌱 Estou estudando Sistemas para Internet - IFTO
-- 👯 Estou procurando trabalhar em desenvolvimento de sistemas
+- 🔭 Atualmente trabalho com suporte de informatica.
+- 🌱 Estudando Sistemas para Internet - Insituto Federal do Tocantins (IFTO).
+- 👯 Estou me aprimorando para trabalhar em desenvolvimento de sistemas.
 
 
 <div align="center">
