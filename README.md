@@ -27,12 +27,12 @@
 
 <div style="display: inline_block" align="center">
   <h2>Meios de contato</h2>
-  <a href = "mailto:maxwellalexander007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
+  <a href = "mailto:maxwellalexander007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
   
   
   <a href="https://www.linkedin.com/in/maxwell-alexander-de-oliveira-almeida-sousa-1312a81b8/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<a href = "https://web.whatsapp.com/send?phone=55063984140211"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
+<a href = "https://web.whatsapp.com/send?phone=55063984140211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
   
  
 </div>
