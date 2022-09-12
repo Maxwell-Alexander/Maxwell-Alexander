@@ -15,6 +15,7 @@
 <br> 
 <div style="display: inline_block" align="center"><br>
 <h2>Linguagens utilizadas</h2>
+<br>
   <img align="center" alt="Maxwell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maxwell-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maxwell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,15 +26,14 @@
 <br>
   
 
-<div style="display: inline_block" align="center">
+<div align="center">
   <h2>Meios de contato</h2>
-  <a href = "mailto:maxwellalexander007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-  
-  
-  <a href="https://www.linkedin.com/in/maxwell-alexander-de-oliveira-almeida-sousa-1312a81b8/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
 
-<a href = "https://web.whatsapp.com/send?phone=55063984140211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
-  
+  <a href = "mailto:maxwellalexander007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maxwell-alexander-de-oliveira-almeida-sousa-1312a81b8/" target="_blank" align="center"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://web.whatsapp.com/send?phone=55063984140211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
+
 </div>
 
