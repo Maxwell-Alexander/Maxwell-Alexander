@@ -37,4 +37,4 @@
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Maxwell-Alexander/Cadastro-de-imoveis-ACADEMICO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Maxwell-Alexander&repo=github-readme-stats)](https://github.com/Maxwell-Alexander/github-readme-stats)
