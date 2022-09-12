@@ -14,7 +14,7 @@
 
 <br> 
 <div style="display: inline_block" align="center"><br>
-<h2>Linguagens utilizadas</h2>
+<h2>Tecnologias utilizadas</h2>
 <br>
   <img align="center" alt="Maxwell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maxwell-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
