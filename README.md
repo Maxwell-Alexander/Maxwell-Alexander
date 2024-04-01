@@ -1,7 +1,7 @@
 <h1>Olá, me chamo Maxwell Alexander</h1>
 
 
-- 🔭 Atualmente trabalho com suporte de informatica.
+- 🔭 Atualmente trabalho com Dev Junior - Vólus.
 - 🌱 Estudando Sistemas para Internet - Insituto Federal do Tocantins (IFTO).
 - 👯 Estou me aprimorando para trabalhar em desenvolvimento de sistemas.
 
