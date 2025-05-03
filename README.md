@@ -1,9 +1,9 @@
 <h1>Olá, me chamo Maxwell Alexander</h1>
 
 
-- 🔭 Atualmente trabalho com Dev Junior - Vólus.
-- 🌱 Estudando Sistemas para Internet - Insituto Federal do Tocantins (IFTO).
-- 👯 Estou me aprimorando para trabalhar em desenvolvimento de sistemas.
+- 🔭 Desenvolvedor Júnior na Vólus, com foco em soluções práticas e eficientes.
+- 🌱 Estudante de Sistemas para Internet na UNIASSELVI.
+- 🚀 Comprometido com a evolução contínua na área de desenvolvimento de software.
 
 <br>
 <div align="center">
@@ -16,14 +16,11 @@
 <div style="display: inline_block" align="center"><br>
 <h2>Tecnologias utilizadas</h2>
 <br>
-  <img align="center" alt="Maxwell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maxwell-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maxwell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Maxwell-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Maxwell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Maxwell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Maxwell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <!--<img align="center" alt="Maxwell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
- 
+   
 </div>
 
 <br>
